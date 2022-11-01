@@ -5,12 +5,17 @@
       <map>
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/drawable/bg_btn_primary.xml" value="0.113" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/drawable/bg_gray.xml" value="0.113" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_details.xml" value="0.184375" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_details2.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_details3.xml" value="0.184375" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_details4.xml" value="0.184375" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_form.xml" value="0.22" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/activity_main2.xml" value="0.21" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/fragment_beliragment.xml" value="0.19746376811594202" />
-        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/fragment_beranda.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/fragment_beranda.xml" value="0.2" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/fragment_pesan.xml" value="0.22" />
-        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/fragment_profil.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/layout/fragment_profil.xml" value="0.25" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/TugasMobileIqbal/app/src/main/res/menu/bottom_navigation.xml" value="0.18" />
       </map>
     </option>
